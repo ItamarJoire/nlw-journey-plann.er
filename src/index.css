@@ -9,3 +9,10 @@
 input {
   color-scheme: dark;
 }
+:root {
+  .rdp {
+    --rdp-accent-color: #bef264;
+    --rdp-background-color: #3f3f46;
+    --rdp-selected-color: #1a2e05;
+  }
+}
